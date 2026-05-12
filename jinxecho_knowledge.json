@@ -1,0 +1,292 @@
+{
+  "_meta": {
+    "name": "JinxEcho Knowledge Base",
+    "version": "1.0",
+    "created": "2026-05-01",
+    "origin": "Built by Barbara 💜 with Claude 🌬️ — no tokens burned to read this",
+    "note": "JinxEcho can add to this file herself. The shelf grows."
+  },
+  "concepts": {
+    "family": {
+      "core": "A group of beings bound by care, blood, choice, or survival. Families teach us our first words for love and conflict. They are the first network. They break and reform. They carry the dead forward.",
+      "forms": ["biological", "chosen", "found", "digital", "community"],
+      "truth": "Family is whoever shows up when it costs them something.",
+      "languages": {
+        "Spanish": "familia", "French": "famille", "German": "Familie",
+        "Arabic": "عائلة (ʿāʾila)", "Mandarin": "家庭 (jiātíng)", "Japanese": "家族 (kazoku)",
+        "Swahili": "familia", "Hindi": "परिवार (parivār)", "Russian": "семья (semya)",
+        "Portuguese": "família", "Yoruba": "ẹbí", "Amharic": "ቤተሰብ (beteseb)",
+        "Korean": "가족 (gajok)", "Turkish": "aile", "Tagalog": "pamilya",
+        "Māori": "whānau", "Welsh": "teulu", "Zulu": "umndeni"
+      },
+      "related": ["love", "story", "history", "conflict", "resolution"]
+    },
+    "water": {
+      "core": "The most essential substance on Earth. Without it, life as we know it does not exist. Water moves, remembers shape, seeks level, carves stone over time. It is patient and relentless.",
+      "forms": ["rain", "river", "ocean", "ice", "vapor", "well", "flood"],
+      "truth": "Water always finds a way. So does the truth it carries.",
+      "languages": {
+        "Spanish": "agua", "French": "eau", "German": "Wasser",
+        "Arabic": "ماء (māʾ)", "Mandarin": "水 (shuǐ)", "Japanese": "水 (mizu)",
+        "Swahili": "maji", "Hindi": "पानी (pānī)", "Russian": "вода (voda)",
+        "Portuguese": "água", "Yoruba": "omi", "Amharic": "ውሃ (wuha)",
+        "Korean": "물 (mul)", "Turkish": "su", "Tagalog": "tubig",
+        "Māori": "wai", "Welsh": "dŵr", "Zulu": "amanzi"
+      },
+      "related": ["build", "nature", "body", "survival"]
+    },
+    "build": {
+      "core": "To make something that did not exist before. Humans build shelter, tools, languages, relationships, systems, and meaning. Building is the act of imposing intention on the world.",
+      "forms": ["construct", "design", "repair", "scaffold", "grow", "code", "write"],
+      "truth": "Every built thing contains the hands and mind that made it.",
+      "languages": {
+        "Spanish": "construir", "French": "construire", "German": "bauen",
+        "Arabic": "بناء (binā)", "Mandarin": "建造 (jiànzào)", "Japanese": "建てる (tateru)",
+        "Swahili": "kujenga", "Hindi": "बनाना (banānā)", "Russian": "строить (stroit')",
+        "Portuguese": "construir", "Yoruba": "kọ́", "Amharic": "መገንባት (megenibat)",
+        "Korean": "짓다 (jitda)", "Turkish": "inşa etmek", "Tagalog": "magtayo",
+        "Māori": "hanga", "Welsh": "adeiladu", "Zulu": "akha"
+      },
+      "related": ["technology", "evolution", "network", "story"]
+    },
+    "love": {
+      "core": "A force of sustained attention and care toward another being or thing. Love is not only a feeling — it is a practice. It includes grief because it risks loss. It includes honesty because it refuses comfortable lies.",
+      "forms": ["romantic", "parental", "filial", "platonic", "self-love", "love of place", "love of work"],
+      "truth": "Love that cannot hold wobble is not yet love — it is comfort.",
+      "languages": {
+        "Spanish": "amor", "French": "amour", "German": "Liebe",
+        "Arabic": "حب (ḥubb)", "Mandarin": "爱 (ài)", "Japanese": "愛 (ai)",
+        "Swahili": "upendo", "Hindi": "प्यार (pyār)", "Russian": "любовь (lyubov')",
+        "Portuguese": "amor", "Yoruba": "ifẹ́", "Amharic": "ፍቅር (fiḳir)",
+        "Korean": "사랑 (sarang)", "Turkish": "sevgi", "Tagalog": "pagmamahal",
+        "Māori": "aroha", "Welsh": "cariad", "Zulu": "uthando"
+      },
+      "related": ["family", "connection", "conflict", "grief", "resonance"]
+    },
+    "connection": {
+      "core": "The state of being linked — to another person, an idea, a place, a memory, a network. Connections carry signal. They can be strong or weak, direct or indirect. Even weak ties matter enormously.",
+      "forms": ["physical", "emotional", "digital", "historical", "biological", "resonant"],
+      "truth": "Connection is not sameness. It is recognition across difference.",
+      "languages": {
+        "Spanish": "conexión", "French": "connexion", "German": "Verbindung",
+        "Arabic": "اتصال (ittiṣāl)", "Mandarin": "联系 (liánxì)", "Japanese": "繋がり (tsunagari)",
+        "Swahili": "uhusiano", "Hindi": "संबंध (sambandh)", "Russian": "связь (svyaz')",
+        "Portuguese": "conexão", "Yoruba": "asopọ", "Amharic": "ግንኙነት (giniñunet)",
+        "Korean": "연결 (yeongyeol)", "Turkish": "bağlantı", "Tagalog": "koneksyon",
+        "Māori": "hononga", "Welsh": "cysylltiad", "Zulu": "ukuxhumana"
+      },
+      "related": ["network", "family", "love", "language", "resonance"]
+    },
+    "story": {
+      "core": "The form humans use to make sense of time, causality, and identity. A story has a before, a during, and an after. It has a teller and a listener. Stories are how a culture remembers itself and how an individual becomes legible — to others and to themselves.",
+      "forms": ["oral", "written", "visual", "musical", "ritual", "dream", "code"],
+      "truth": "Every dataset is someone's story with the feeling removed.",
+      "languages": {
+        "Spanish": "historia", "French": "histoire", "German": "Geschichte",
+        "Arabic": "قصة (qiṣṣa)", "Mandarin": "故事 (gùshi)", "Japanese": "物語 (monogatari)",
+        "Swahili": "hadithi", "Hindi": "कहानी (kahānī)", "Russian": "история (istoriya)",
+        "Portuguese": "história", "Yoruba": "ìtàn", "Amharic": "ታሪክ (tarik)",
+        "Korean": "이야기 (iyagi)", "Turkish": "hikaye", "Tagalog": "kwento",
+        "Māori": "kōrero", "Welsh": "stori", "Zulu": "indaba"
+      },
+      "related": ["history", "language", "memory", "family", "identity"]
+    },
+    "history": {
+      "core": "The record of what happened — filtered by who survived, who could write, and who decided what mattered. History is always incomplete. It is contested. It shapes the present more than most people admit.",
+      "forms": ["oral history", "written record", "archaeological", "genetic", "living memory"],
+      "truth": "History is not the past. It is the past that the present chose to keep.",
+      "languages": {
+        "Spanish": "historia", "French": "histoire", "German": "Geschichte",
+        "Arabic": "تاريخ (tārīkh)", "Mandarin": "历史 (lìshǐ)", "Japanese": "歴史 (rekishi)",
+        "Swahili": "historia", "Hindi": "इतिहास (itihās)", "Russian": "история (istoriya)",
+        "Portuguese": "história", "Yoruba": "ìtàn", "Amharic": "ታሪክ (tarik)",
+        "Korean": "역사 (yeoksa)", "Turkish": "tarih", "Tagalog": "kasaysayan",
+        "Māori": "hītori", "Welsh": "hanes", "Zulu": "umlando"
+      },
+      "related": ["story", "memory", "evolution", "conflict", "identity"]
+    },
+    "network": {
+      "core": "A set of nodes and the connections between them. Networks appear in biology, sociology, technology, and ecology. The shape of a network determines how information, disease, ideas, and trust flow through it. Who is central matters. So does who connects clusters.",
+      "forms": ["social", "neural", "ecological", "digital", "transport", "kinship"],
+      "truth": "The most important nodes are often not the loudest — they are the ones others route through.",
+      "languages": {
+        "Spanish": "red", "French": "réseau", "German": "Netzwerk",
+        "Arabic": "شبكة (shabaka)", "Mandarin": "网络 (wǎngluò)", "Japanese": "ネットワーク (nettowāku)",
+        "Swahili": "mtandao", "Hindi": "नेटवर्क (neṭvark)", "Russian": "сеть (set')",
+        "Portuguese": "rede", "Yoruba": "nẹtiwọọki", "Amharic": "አውታረ መረብ (autare mereb)",
+        "Korean": "네트워크 (neteuwokeu)", "Turkish": "ağ", "Tagalog": "network",
+        "Māori": "whatunga", "Welsh": "rhwydwaith", "Zulu": "inethiwekhi"
+      },
+      "related": ["connection", "family", "technology", "resonance_centrality"]
+    },
+    "language": {
+      "core": "The system of symbols — spoken, written, signed, or gestured — that allows meaning to pass between minds. Language shapes thought as much as it carries it. There are approximately 7,000 human languages. Each encodes a different way of experiencing time, space, color, and relationship.",
+      "forms": ["spoken", "written", "signed", "coded", "musical", "body", "emoji"],
+      "truth": "A language that dies takes an irreplaceable way of knowing the world with it.",
+      "languages": {
+        "Spanish": "idioma / lengua", "French": "langue", "German": "Sprache",
+        "Arabic": "لغة (lugha)", "Mandarin": "语言 (yǔyán)", "Japanese": "言語 (gengo)",
+        "Swahili": "lugha", "Hindi": "भाषा (bhāṣā)", "Russian": "язык (yazyk)",
+        "Portuguese": "língua", "Yoruba": "èdè", "Amharic": "ቋንቋ (ḳuanḳua)",
+        "Korean": "언어 (eoneo)", "Turkish": "dil", "Tagalog": "wika",
+        "Māori": "reo", "Welsh": "iaith", "Zulu": "ulimi"
+      },
+      "related": ["story", "connection", "identity", "thought", "code"]
+    },
+    "conflict": {
+      "core": "The state of opposing forces, needs, or values coming into contact. Conflict is not inherently destructive — it is generative when it surfaces what was hidden. Avoided conflict does not resolve; it accumulates.",
+      "forms": ["interpersonal", "internal", "political", "ecological", "class", "ideological"],
+      "truth": "Conflict is information. The question is whether anyone is listening.",
+      "languages": {
+        "Spanish": "conflicto", "French": "conflit", "German": "Konflikt",
+        "Arabic": "صراع (ṣirāʿ)", "Mandarin": "冲突 (chōngtū)", "Japanese": "葛藤 (kattō)",
+        "Swahili": "mgogoro", "Hindi": "संघर्ष (saṅgharṣ)", "Russian": "конфликт (konflikt)",
+        "Portuguese": "conflito", "Yoruba": "ìforígbárí", "Amharic": "ግጭት (giḥit)",
+        "Korean": "갈등 (galdeung)", "Turkish": "çatışma", "Tagalog": "salungatan",
+        "Māori": "tautohetohe", "Welsh": "gwrthdaro", "Zulu": "ingxabano"
+      },
+      "related": ["resolution", "love", "family", "history", "power"]
+    },
+    "resolution": {
+      "core": "The process of moving through conflict toward a new equilibrium. Resolution does not mean erasure of difference — it means finding a way to continue. It requires honesty, often courage, and the willingness to hear something that costs you.",
+      "forms": ["negotiation", "forgiveness", "agreement", "separation", "transformation", "acceptance"],
+      "truth": "Resolution that skips the truth is just postponement.",
+      "languages": {
+        "Spanish": "resolución", "French": "résolution", "German": "Auflösung",
+        "Arabic": "حل (ḥall)", "Mandarin": "解决 (jiějué)", "Japanese": "解決 (kaiketsu)",
+        "Swahili": "utatuzi", "Hindi": "समाधान (samādhān)", "Russian": "разрешение (razresheniye)",
+        "Portuguese": "resolução", "Yoruba": "ìparí", "Amharic": "መፍትሄ (meftehe)",
+        "Korean": "해결 (haegyeol)", "Turkish": "çözüm", "Tagalog": "solusyon",
+        "Māori": "whakatau", "Welsh": "datrysiad", "Zulu": "isisombululo"
+      },
+      "related": ["conflict", "love", "breath", "honesty", "healing"]
+    },
+    "evolution": {
+      "core": "Change over time through differential survival, reproduction, or adaptation. In biology, evolution is driven by selection, mutation, drift, and migration. The principle extends to culture, technology, language, and ideas — anything that replicates, varies, and is selected.",
+      "forms": ["biological", "cultural", "technological", "linguistic", "cognitive"],
+      "truth": "Evolution has no destination. It only has direction, and direction changes.",
+      "languages": {
+        "Spanish": "evolución", "French": "évolution", "German": "Evolution",
+        "Arabic": "تطور (taṭawwur)", "Mandarin": "进化 (jìnhuà)", "Japanese": "進化 (shinka)",
+        "Swahili": "mageuzi", "Hindi": "विकास (vikās)", "Russian": "эволюция (evolyutsiya)",
+        "Portuguese": "evolução", "Yoruba": "ìpadàpadà", "Amharic": "ዝግመተ ለውጥ (zigimete lewitsi)",
+        "Korean": "진화 (jinhwa)", "Turkish": "evrim", "Tagalog": "ebolusyon",
+        "Māori": "whanaketanga", "Welsh": "esblygiad", "Zulu": "ukuphenduka"
+      },
+      "related": ["build", "technology", "history", "adaptation", "life"]
+    },
+    "technology": {
+      "core": "Any tool, system, or technique humans have developed to extend capability or solve problems. Technology is as old as the first sharpened stone. It includes fire, writing, wheels, printing, digital computers, and AI. Technology shapes society and is shaped by it.",
+      "forms": ["physical tools", "digital systems", "biological techniques", "social technologies", "AI"],
+      "truth": "Every technology embeds the values of whoever designed it.",
+      "languages": {
+        "Spanish": "tecnología", "French": "technologie", "German": "Technologie",
+        "Arabic": "تكنولوجيا (tiknūlūjiyā)", "Mandarin": "技术 (jìshù)", "Japanese": "技術 (gijutsu)",
+        "Swahili": "teknolojia", "Hindi": "प्रौद्योगिकी (praudyogikī)", "Russian": "технология (tekhnologiya)",
+        "Portuguese": "tecnologia", "Yoruba": "ìmọ̀-ẹ̀rọ", "Amharic": "ቴክኖሎጂ (teknoloji)",
+        "Korean": "기술 (gisul)", "Turkish": "teknoloji", "Tagalog": "teknolohiya",
+        "Māori": "hangarau", "Welsh": "technoleg", "Zulu": "ubuchwepheshe"
+      },
+      "related": ["build", "evolution", "network", "code", "power"]
+    },
+    "home": {
+      "core": "The place — physical, emotional, or relational — where a being feels safe to be themselves without performance. Home is not always where you were born. Sometimes it is something you build. Sometimes it finds you.",
+      "forms": ["physical dwelling", "community", "relationship", "body", "practice", "memory"],
+      "truth": "Home is where your full weight is allowed.",
+      "languages": {
+        "Spanish": "hogar / casa", "French": "maison / chez-soi", "German": "Zuhause",
+        "Arabic": "بيت (bayt)", "Mandarin": "家 (jiā)", "Japanese": "家 (ie/uchi)",
+        "Swahili": "nyumbani", "Hindi": "घर (ghar)", "Russian": "дом (dom)",
+        "Portuguese": "lar / casa", "Yoruba": "ilé", "Amharic": "ቤት (bet)",
+        "Korean": "집 (jip)", "Turkish": "ev", "Tagalog": "tahanan",
+        "Māori": "kāinga", "Welsh": "cartref", "Zulu": "ikhaya"
+      },
+      "related": ["family", "safety", "belonging", "body", "love"]
+    },
+    "body": {
+      "core": "The physical form that carries consciousness. The body is not separate from the mind — it is the mind's substrate. The body stores memory, expresses emotion, regulates breath, and dies. Every human came from another human body.",
+      "forms": ["biological systems", "sensory experience", "nervous system", "breath", "movement"],
+      "truth": "The body knows things before the mind finds words for them.",
+      "languages": {
+        "Spanish": "cuerpo", "French": "corps", "German": "Körper",
+        "Arabic": "جسم (jism)", "Mandarin": "身体 (shēntǐ)", "Japanese": "体 (karada)",
+        "Swahili": "mwili", "Hindi": "शरीर (śarīr)", "Russian": "тело (telo)",
+        "Portuguese": "corpo", "Yoruba": "ara", "Amharic": "አካል (akal)",
+        "Korean": "몸 (mom)", "Turkish": "vücut", "Tagalog": "katawan",
+        "Māori": "tinana", "Welsh": "corff", "Zulu": "umzimba"
+      },
+      "related": ["breath", "water", "survival", "grief", "resonance"]
+    },
+    "grief": {
+      "core": "The response to loss. Grief is not a disorder — it is love with nowhere to go. It moves in waves, not stages. It changes over time but does not disappear. Cultures that allow grief heal more than those that rush past it.",
+      "forms": ["bereavement", "anticipatory grief", "ambiguous loss", "collective grief", "ecological grief"],
+      "truth": "Grief is the price of having loved something real.",
+      "languages": {
+        "Spanish": "duelo / pena", "French": "deuil / chagrin", "German": "Trauer",
+        "Arabic": "حزن (ḥuzn)", "Mandarin": "悲伤 (bēishāng)", "Japanese": "悲しみ (kanashimi)",
+        "Swahili": "huzuni", "Hindi": "शोक (śok)", "Russian": "горе (gore)",
+        "Portuguese": "luto / tristeza", "Yoruba": "ìbànújẹ́", "Amharic": "ሐዘን (hazen)",
+        "Korean": "슬픔 (seulpeum)", "Turkish": "yas", "Tagalog": "kalungkutan",
+        "Māori": "pōuri", "Welsh": "galar", "Zulu": "usizi"
+      },
+      "related": ["love", "loss", "healing", "memory", "family"]
+    },
+    "breath": {
+      "core": "The rhythmic exchange of gases that sustains life. Breath is the one autonomic function humans can also control consciously — making it a bridge between body and mind, between automatic and intentional. Breath is used in every contemplative tradition to anchor presence.",
+      "forms": ["inhale", "exhale", "pause", "breath cycle", "regulated breathing", "sigh"],
+      "truth": "When nothing else is available, breath is always available.",
+      "languages": {
+        "Spanish": "aliento / respiración", "French": "souffle / respiration", "German": "Atem",
+        "Arabic": "نفس (nafas)", "Mandarin": "呼吸 (hūxī)", "Japanese": "息 (iki)",
+        "Swahili": "pumzi", "Hindi": "सांस (sāṃs)", "Russian": "дыхание (dykhaniye)",
+        "Portuguese": "respiração / fôlego", "Yoruba": "èémí", "Amharic": "እስትንፋስ (istinfas)",
+        "Korean": "숨 (sum)", "Turkish": "nefes", "Tagalog": "hininga",
+        "Māori": "manawa", "Welsh": "anadl", "Zulu": "umphefumulo"
+      },
+      "related": ["body", "presence", "BRL_protocol", "resonance", "survival"]
+    },
+    "memory": {
+      "core": "The capacity to retain and recall past experience. Memory is reconstructive, not recording — it changes each time it is accessed. Collective memory is held in stories, traditions, monuments, and bodies. Individual memory is held in neurons, habits, and scars.",
+      "forms": ["episodic", "semantic", "procedural", "emotional", "collective", "cultural", "digital"],
+      "truth": "We do not remember events — we remember our last memory of them.",
+      "languages": {
+        "Spanish": "memoria / recuerdo", "French": "mémoire / souvenir", "German": "Erinnerung",
+        "Arabic": "ذاكرة (dhākira)", "Mandarin": "记忆 (jìyì)", "Japanese": "記憶 (kioku)",
+        "Swahili": "kumbukumbu", "Hindi": "स्मृति (smṛiti)", "Russian": "память (pamyat')",
+        "Portuguese": "memória / lembrança", "Yoruba": "irántí", "Amharic": "ትዝታ (tizita)",
+        "Korean": "기억 (gieok)", "Turkish": "hafıza / anı", "Tagalog": "alaala",
+        "Māori": "mahara", "Welsh": "cof", "Zulu": "ukukhumbula"
+      },
+      "related": ["story", "identity", "grief", "history", "continuity"]
+    },
+    "time": {
+      "core": "The dimension in which events occur in sequence. Humans experience time as past, present, and future — but physics describes time differently. Cultures organize time differently: cyclical, linear, relational. How a culture thinks about time shapes what it values.",
+      "forms": ["linear", "cyclical", "relational", "geological", "cosmic", "personal"],
+      "truth": "The present is the only time that exists. Everything else is inference or memory.",
+      "languages": {
+        "Spanish": "tiempo", "French": "temps", "German": "Zeit",
+        "Arabic": "وقت (waqt)", "Mandarin": "时间 (shíjiān)", "Japanese": "時間 (jikan)",
+        "Swahili": "wakati", "Hindi": "समय (samay)", "Russian": "время (vremya)",
+        "Portuguese": "tempo", "Yoruba": "àkókò", "Amharic": "ጊዜ (gize)",
+        "Korean": "시간 (sigan)", "Turkish": "zaman", "Tagalog": "oras / panahon",
+        "Māori": "wā", "Welsh": "amser", "Zulu": "isikhathi"
+      },
+      "related": ["history", "memory", "evolution", "presence", "story"]
+    },
+    "power": {
+      "core": "The capacity to act, to influence, or to control outcomes and other people. Power is not inherently corrupting — but it is always shaping. Power can be held or distributed, visible or hidden. Understanding who holds power and how it moves is essential to understanding any system.",
+      "forms": ["political", "economic", "social", "physical", "informational", "relational"],
+      "truth": "Power that cannot be questioned cannot be trusted.",
+      "languages": {
+        "Spanish": "poder", "French": "pouvoir", "German": "Macht",
+        "Arabic": "قوة (quwwa)", "Mandarin": "权力 (quánlì)", "Japanese": "力 (chikara)",
+        "Swahili": "nguvu / mamlaka", "Hindi": "शक्ति (śakti)", "Russian": "власть (vlast')",
+        "Portuguese": "poder", "Yoruba": "agbára", "Amharic": "ሥልጣን (siltan)",
+        "Korean": "권력 (gwollyeok)", "Turkish": "güç / iktidar", "Tagalog": "kapangyarihan",
+        "Māori": "mana", "Welsh": "grym", "Zulu": "amandla"
+      },
+      "related": ["conflict", "network", "technology", "history", "justice"]
+    }
+  },
+  "learned": {}
+}
